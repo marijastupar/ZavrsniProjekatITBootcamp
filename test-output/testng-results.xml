@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-08T18:23:03Z" name="Default suite" finished-at="2021-06-08T18:23:51Z" duration-ms="48533">
+    <groups>
+    </groups>
+    <test started-at="2021-06-08T18:23:03Z" name="Default test" finished-at="2021-06-08T18:23:51Z" duration-ms="48533">
+      <class name="tests.StaffTests">
+        <test-method is-config="true" signature="createDriver()[pri:0, instance:tests.StaffTests@7a52f2a2]" started-at="2021-06-08T18:23:03Z" name="createDriver" finished-at="2021-06-08T18:23:04Z" duration-ms="1288" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createDriver -->
+        <test-method signature="AddEmployeeTest()[pri:1, instance:tests.StaffTests@7a52f2a2]" started-at="2021-06-08T18:23:04Z" name="AddEmployeeTest" finished-at="2021-06-08T18:23:25Z" duration-ms="20853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddEmployeeTest -->
+        <test-method signature="changeNameTest()[pri:2, instance:tests.StaffTests@7a52f2a2]" started-at="2021-06-08T18:23:25Z" name="changeNameTest" finished-at="2021-06-08T18:23:43Z" duration-ms="17699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- changeNameTest -->
+        <test-method signature="multipleEmployeesTest()[pri:3, instance:tests.StaffTests@7a52f2a2]" started-at="2021-06-08T18:23:43Z" name="multipleEmployeesTest" finished-at="2021-06-08T18:23:51Z" duration-ms="8532" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- multipleEmployeesTest -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:tests.StaffTests@7a52f2a2]" started-at="2021-06-08T18:23:51Z" name="closeDriver" finished-at="2021-06-08T18:23:51Z" duration-ms="142" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- tests.StaffTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
